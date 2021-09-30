@@ -1,5 +1,5 @@
 # JavaScript-Basics
-All the basics of javascript with proper comments and examples.
+All the basics of javascript with proper comments and examples.  
 Includes : 
   1. Data Types
   2. Variables
